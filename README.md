@@ -7,6 +7,17 @@ Agar shu yerni o'zida online ishlatib ko'rishni istasangiz ,[" Aviachipta_narxin
 <strong>Hindiston Davlatidagi parvozlarning ma'lumotlari taqdim etilgan.</strong><br>
 <strong>Ushbu maʼlumotlar toʻplami quyidagilarni o'z ichiga oladi:</strong><br>
 <strong>Tarkib:</strong><br>
+* ID: Ketma - ketlik uchun qo'yilgan sonlar.
+* Airline: Parvoz qilingan aviakompaniya nomi.
+* Flight: Parvoz qilingan ID raqami.
+* Source_city: Parvoz qaysi shahardan boshlanishi.
+* Departure_time: Samolyotning ketish vaqti.
+* Stop: Parvoz davomida to'xtashlar soni.
+* Arrival_time: Qaytish vaqti.
+* Destination_city: Qaysi davlatga parvoz qilinayotgani.
+* Class: Foydalanuvchi samolyotning qaysi klass turidan foydalanib uchganligi.
+* Duration: Parvoz davomiyligi.
+* Days_left: Samolyotning qancha vaqtdan keyin qaytishi.
 
 <br><br>
 <strong>Ishlatilgan texnologiya va modullar :</strong><br>
